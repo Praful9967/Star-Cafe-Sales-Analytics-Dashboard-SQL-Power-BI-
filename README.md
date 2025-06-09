@@ -37,6 +37,8 @@ This project is an end-to-end business intelligence solution for a fictional cof
  **Excel** - Supporting calculations & validation      
 
 ---
+## 📷 Dashboard Preview
+https://github.com/Praful9967/Star-Cafe-Sales-Analytics-Dashboard-SQL-Power-BI-/blob/main/Dashboard.png
 
 ## 📈 Business Outcomes
 
