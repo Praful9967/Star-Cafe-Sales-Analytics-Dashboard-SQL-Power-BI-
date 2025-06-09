@@ -39,6 +39,8 @@ This project is an end-to-end business intelligence solution for a fictional cof
 ---
 ## 📷 Dashboard Preview
 https://github.com/Praful9967/Star-Cafe-Sales-Analytics-Dashboard-SQL-Power-BI-/blob/main/Dashboard.png
+![Dashboard](https://github.com/user-attachments/assets/61b1952a-c045-4dc5-8dbc-7cf570fc797a)
+
 
 ## 📈 Business Outcomes
 
